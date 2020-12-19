@@ -19,14 +19,14 @@ locale                   : "en-US"
 title                    : "Bound Mania"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Anonymous"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/ok_hanlabong.jpeg"
 logo                     : "/assets/images/ok_hanlabong.jpeg"
-masthead_title           : "raimi"
+masthead_title           : "Bound Mania"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Anonymous"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
