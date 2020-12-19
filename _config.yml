@@ -25,8 +25,8 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/ok_hanlabong.jpeg"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+logo                     : "/assets/images/ok_hanlabong.jpeg"
+masthead_title           : "raimi"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -280,3 +280,10 @@ defaults:
       share: true
       related: true
       show_date: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
